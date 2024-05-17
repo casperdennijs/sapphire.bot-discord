@@ -1,0 +1,6 @@
+{
+    "clientId": "YOUR CLIENT ID HERE",
+    "guildId": "YOUR GUILD ID HERE",
+    "token": "YOUR BOT TOKEN HERE",
+    "openAIKey": "YOUR OPENAI KEY HERE"
+}
